@@ -1,0 +1,115 @@
+.background {
+    background-color: white;
+}
+
+.normal {
+    background-color: rgb(214, 214, 214);
+    position: absolute;
+    border: solid 1px rgb(37, 37, 37);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.navigationbar {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    right: 15px;
+    height: 34px;
+    color: white;
+    font-size: x-large;
+}
+
+.tabbody {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    right: 15px;
+    bottom: 40px;
+    border: solid 2px rgb(68, 68, 68)
+}
+
+.alignright{
+    text-align: right;
+}
+
+.tabdesign1{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    right:200px;
+    /*bottom: 400px;*/
+    height: 600px;
+    width: 400px;
+    /*border:rgb(37, 37, 37)*/
+}
+
+.tabcaption1{
+    position: absolute;
+    top: 355px;
+    left: 50px;
+    height: 30px;
+    width: 400px;
+    font-size: small;
+}
+
+.tabdesign2{
+    position:absolute;
+    top:-205px;
+    left: 50px;
+    height: 600px;
+    width: 400px;
+}
+
+.tabcaption2{
+    position: absolute;
+    top: 697px;
+    left: 50px;
+    height: 30px;
+    width: 400px;
+    font-size: small;
+}
+
+.tabdesign3{
+    position: absolute;
+    top: -1150px;
+    left: 750px;
+    /*bottom: 400px;*/
+    height: 600px;
+    width: 400px;
+}
+
+.tabcaption3{
+    position: absolute;
+    top: 355px;
+    right: 238px;
+    height: 30px;
+    width: 400px;
+    font-size: small;
+}
+
+.tabdesign4{
+    position:absolute;
+    top: -1407px;
+    left: 748px;
+    height: 600px;
+    width: 400px;
+}
+
+.tabcaption4{
+    position: absolute;
+    top: 697px;
+    right: 238px;
+    height: 30px;
+    width: 400px;
+    font-size: small;
+}
+
+.footer{
+    position: absolute;
+    left: 500px;
+    bottom: -30px;
+    text-align: center;
+    font: x-small;
+    font-style: italic;
+    color: black;
+}
